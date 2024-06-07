@@ -79,7 +79,7 @@ letter-spacing: 1px;
         border-radius: 50%;
         position: absolute;
         left: 20px;
-        top : 63rem;
+        top : auto;
 }
   .skill {
             margin: 0;
